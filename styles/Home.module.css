@@ -1,0 +1,15 @@
+/* styles/Home.module.css */
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .link {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
